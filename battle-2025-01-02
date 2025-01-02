@@ -1,0 +1,65 @@
+<div id="wrapper">
+  <div id="a"></div>
+  <div id="a"></div>
+  <div id="a"></div>
+  <div id="a"></div>
+  <div id="a"></div>
+  <div id="a"></div>
+</div>
+
+<div id="top">
+  <div id="b"></div>
+  <div id="b"></div>
+  <div id="b"></div>
+</div>
+
+<div id="bottom">
+  <div id="b"></div>
+  <div id="b"></div>
+  <div id="b"></div>
+</div>
+
+<style>
+  #a {
+    width: 30px;
+    height: 90px;
+    background: #F5BB60;
+  }
+  
+  #b {
+    width: 90px;
+    height: 30px;
+    background: #F5BB60;
+  }
+  
+  #wrapper {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  
+  #top, #bottom {
+    display: flex;
+    height: 100%;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    position: absolute;
+    gap: 30px;
+  }
+  
+  #top {
+    top: 15%;
+    left: 8.7%;
+  }
+  
+  #bottom {
+    top: 75%;
+    left: 8.7%;
+  }
+  
+  body {
+    margin: 0 4.6px;
+    background: #2F5A76;
+  }
+</style>
