@@ -1,7 +1,7 @@
 # CSS Battles
 
 Welcome to my **CSS Battles** repository! 🚀  
-This repository contains my solutions for various CSS challenges that I have completed on **CSS Battles**.
+This repository contains my solutions for daily CSS challenges that I have completed on **CSS Battles**.
 
 ## My Rank
 Currently, my **CSS Battle rank is 3766**! 🎯  
