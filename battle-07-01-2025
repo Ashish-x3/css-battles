@@ -1,0 +1,39 @@
+<div id=square>
+  <div id=circle></div>
+</div>
+<div id=center-square>
+  <div id=center-circle></div>
+</div>
+<div id=square>
+  <div id=circle></div>
+</div>
+<style>
+  #center-square, #square {
+    width: 80px;
+    height: 80px;
+    background: #FAE29E;
+    display:grid;
+    place-content:center
+  }
+  #center-circle, #circle{
+    width: 40px;
+    height: 40px;
+    background: #4C4C6B;
+    border-radius:100%;
+  }
+  #circle{
+    background:#FAE29E !important;
+  }
+  #square{
+    background:#4C4C6B;
+  }
+  body{
+    margin:0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    background:#4A9A86;
+    gap:20px;
+  }
+</style>
