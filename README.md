@@ -1,5 +1,9 @@
 # CSS Battles
 
+JAN
+![image](https://github.com/user-attachments/assets/8591e946-1be4-4bee-b7a9-5759d53bcd81)
+
+
 Welcome to my **CSS Battles** repository! 🚀  
 This repository contains my solutions for daily CSS challenges that I have completed on **CSS Battles**.
 
