@@ -1,0 +1,38 @@
+<div id=firstCircle></div>
+<div id=secondCircle></div>
+<div id=rectangle></div>
+<style>
+  #firstCircle{
+    position:absolute;
+    width: 60px;
+    height: 60px;
+    border-radius:50%;
+    border:30px solid #7EA6DD;
+    top:140
+  }
+  #secondCircle{
+    top:40;
+    position:absolute;
+    width: 60px;
+    height: 60px;
+    border-radius:50%;
+    border:30px solid #7EA6DD;
+  }
+  #rectangle{
+    position:absolute;
+    width: 70px;
+    height: 120px;
+    background: #2F5A76;
+    top:90;
+    left:130
+  }
+  body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    margin :0;
+    background: #2F5A76;
+    flex-direction:column;
+  }
+</style>
