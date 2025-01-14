@@ -1,0 +1,46 @@
+<div id=rect></div>
+<div id=tri1></div>
+<div id=tri2></div>
+<div id=c></div>
+<style>
+  #rect {
+    width: 120px;
+    height: 130px;
+    background: #EBE77E;
+  }
+  #tri1,#tri2,#c{
+    position:absolute;
+    width:0;
+    height:0;
+  }
+  #tri1{
+    left:140;
+    top:100;
+    border-left:30px solid transparent ;
+    border-right:30px solid transparent;
+    border-top:42px solid #DE817E;
+  }
+   #tri2{
+    position:absolute;
+    width:0;
+    height:0;
+    left:200;
+    top:100;
+    border-left:30px solid transparent ;
+    border-right:30px solid transparent;
+    border-top:42px solid #DE817E;
+  }
+  #c{
+    width:120px;
+    height:10px;
+    top:200;
+    background:#DE817E;
+  }
+  body{
+    margin:0;
+    background:#DE817E;
+    display:grid;
+    place-items:center;
+    height:110vh; 
+  }
+</style>
