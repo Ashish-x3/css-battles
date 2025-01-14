@@ -1,7 +1,8 @@
 # CSS Battles
 
 JAN
-![image](https://github.com/user-attachments/assets/8591e946-1be4-4bee-b7a9-5759d53bcd81)
+![Uploading image.png…]()
+
 
 
 Welcome to my **CSS Battles** repository! 🚀  
