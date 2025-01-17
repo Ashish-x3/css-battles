@@ -9,7 +9,7 @@ Welcome to my **CSS Battles** repository! 🚀
 This repository contains my solutions for daily CSS challenges that I have completed on **CSS Battles**.
 
 ## My Rank
-Currently, my **CSS Battle rank is 2150**! 🎯  
+Currently, my **CSS Battle rank is 1461**! 🎯  
 Every solution here represents a small piece of my journey to improve my CSS skills.
 
 ## Challenges
